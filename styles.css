@@ -119,6 +119,16 @@ border-bottom: 2px solid #262626;
 .ios p {
     margin: 10px 0 20px;
 }
+/* follow */
+.follow {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 30px 0 30px;
+}
+.follow * {
+    margin-right: 10px;
+}
  
 
 
